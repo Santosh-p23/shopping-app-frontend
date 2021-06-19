@@ -1,5 +1,5 @@
 import React from "react";
-import "./product.css";
+import "./products.css";
 import NotificationService, {
   NOTIF_WISHLIST_CHANGED,
 } from "../Services/notification-service";

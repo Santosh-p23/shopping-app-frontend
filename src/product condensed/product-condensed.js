@@ -1,5 +1,5 @@
 import React from "react";
-import "./product-condensed.css";
+import "./products-condensed.css";
 import DataService from "../Services/dataService";
 
 let ds = new DataService();

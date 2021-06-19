@@ -1,5 +1,5 @@
 import React from "react";
-import "./wishlist.css";
+import "./wishlists.css";
 import DataService from "../Services/dataService";
 import NotificationService, {
   NOTIF_WISHLIST_CHANGED,

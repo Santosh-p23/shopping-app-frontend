@@ -2,8 +2,8 @@ import React from "react";
 
 import HttpService from "../Services/http-service";
 
-import WishList from "../wishlist/wishlist";
-import Product from "../Product/product";
+import WishList from "../wishlist/wishlist.js";
+import Product from "../Product/product.js";
 
 const http = new HttpService();
 
